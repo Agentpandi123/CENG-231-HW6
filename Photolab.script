@@ -1,0 +1,55 @@
+Script started on 2023-04-12 02:16:41-07:00
+]0;edilin@WWWSTU-P01:~/ceng231/hw6[edilin@WWWSTU-P01 hw6]$ ./PhotoLabls[K[1Prcd hw6ceng231ls[Kcd ..[3Plscd ceng231[4Phw6r[Kls./PhotoLab[K./PhotoLabls[K[1Prcd hw6ceng231ls[Kcd ..[3Plscd ..[3Plsvi aging.ppmls[Kmv typescript PhotoLab.script
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kscript[4Plsrm exrb.ppm  hmirror.ppm  negative.ppm  noise.ppm sharpen.ppm  vflip.ppm  wilson.ppm
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Krm border.ppm bw.ppm[8Paging.ppmls[Kcd hw6ceng231[6Pexit./PhotoLabgcc PhotoLab.c -ansi -Wall -o PhotoLab
+]0;edilin@WWWSTU-P01:~/ceng231/hw6[edilin@WWWSTU-P01 hw6]$ gcc PhotoLab.c -ansi -Wall -o PhotoLab
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./PhotoLab[K
+wilson.ppm was read successfully!
+aging.ppm was saved successfully. 
+aging.jpg was stored for viewing. 
+Aging Tested!
+
+wilson.ppm was read successfully!
+bw.ppm was saved successfully. 
+bw.jpg was stored for viewing. 
+Black & White Tested!
+
+wilson.ppm was read successfully!
+negative.ppm was saved successfully. 
+negative.jpg was stored for viewing. 
+Negative Tested!
+
+wilson.ppm was read successfully!
+vflip.ppm was saved successfully. 
+vflip.jpg was stored for viewing. 
+VFlip Tested!
+
+wilson.ppm was read successfully!
+hmirror.ppm was saved successfully. 
+hmirror.jpg was stored for viewing. 
+Horizontal Mirror Tested!
+
+wilson.ppm was read successfully!
+sharpen.ppm was saved successfully. 
+sharpen.jpg was stored for viewing. 
+Sharpen Tested!
+
+wilson.ppm was read successfully!
+exrb.ppm was saved successfully. 
+exrb.jpg was stored for viewing. 
+ExRB Tested!
+
+wilson.ppm was read successfully!
+noise.ppm was saved successfully. 
+noise.jpg was stored for viewing. 
+AddNoise tested!
+
+wilson.ppm was read successfully!
+border.ppm was saved successfully. 
+border.jpg was stored for viewing. 
+AddBorder tested!
+
+]0;edilin@WWWSTU-P01:~/ceng231/hw6[edilin@WWWSTU-P01 hw6]$ exit
+exit
+
+Script done on 2023-04-12 02:17:01-07:00
