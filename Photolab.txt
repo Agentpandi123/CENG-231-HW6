@@ -1,0 +1,11 @@
+Black and White: I just changed the intesnsity of the colors on each pixel. 
+Negative: I just subtracted the color amount by 255 to create a negative image.
+Flip Vertically: I swapped the pixels of the RGB to flip the image vertical
+Mirror Horizontally: I located the right half of the image and swapped the pixels of the right side with its corresponding left side and pasted the pixel, creating a mirrored image.
+Sharpen: I first found the sharpened each pixels color value and then saturated each pixel in the picture with its new RGB value.
+Exchange Color Channels: I swapped the red and blue color channels
+Noise: Made each pixel random 1 or 0 which correspond with either black or white and switches the pixels based on the number percentage. This creates an image with noise
+Border: I located where the top, bottom, left, and right border width and height and made it black to create a border around the picture.
+Autotest: Copied the example and in place created a file name and to run the designated files.
+
+
